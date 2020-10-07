@@ -6,7 +6,7 @@
 from math import pi
 
 import sys
-sys.path.insert(1, "C:\Users\hadyj\PycharmProjects\c04-ch6-exercices-JaafarHady")
+sys.path.insert(1, r"C:\Users\hadyj\PycharmProjects\c04-ch6-exercices-JaafarHady")
 from exercice2 import frequence
 
 
@@ -29,7 +29,7 @@ if __name__ == '__main__':
     ellipsoide(a,b,c,mv)
     print(f"Le volume et la masse somt : {ellipsoide(a,b,c,mv)}")
 
-    frequence("phraseeeee")
+
 
 
 
